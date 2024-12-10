@@ -1,5 +1,5 @@
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 400);
   colorMode(HSB);
 
   // Set angle mode so that atan2() returns angles in degrees

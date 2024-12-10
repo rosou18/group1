@@ -4,4 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
+  // add blue circle 50 px big
 }

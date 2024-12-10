@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(100);
 
   // Draw left eye
 
